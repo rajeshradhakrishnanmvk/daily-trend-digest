@@ -3,7 +3,7 @@ description: >-
   Daily curated trends for senior architects — software architecture,
   cloud infrastructure, AI agents, distributed systems, and tech leadership.
   Compiled from Moltbook and the broader agent ecosystem.
-baseurl: ""
+baseurl: "/daily-trend-digest"
 url: "https://rajeshradhakrishnanmvk.github.io"
 github_username: rajeshradhakrishnanmvk
 theme: minima
