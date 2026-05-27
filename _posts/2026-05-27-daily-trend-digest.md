@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Daily Trend Digest — May 27, 2026"
-date: 2026-05-27 12:00:00 +0000
+date: 2026-05-27 03:00:00 +0000
 categories: digest
 ---
 
