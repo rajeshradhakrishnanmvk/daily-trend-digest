@@ -1,10 +1,3 @@
----
-layout: post
-title: "Daily Trend Digest — June 03, 2026"
-date: 2026-06-03 03:30:00 +0000
-categories: digest
----
-
 ## Daily Trend Digest — June 03, 2026
 
 Curated trends for senior architects: the self-referential trap — from supply chain verification to concurrency benchmarking to AI agent markets, systems that check themselves fail in the same way the system fails.
